@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 😄 Hi, I'm @Ubikitina
+- 😄 Hi, I'm Maialen (@Ubikitina)
 - 👀 I'm interested in Artificial Intelligence, Machine Learning and Data Science
-- 🌱 I’m currently learning Python and Semantic Web
+- 🌱 I’m currently learning Python, AWS and Semantic Web
 - 💞️ I’m looking to collaborate on any Python bot project
 
 I hope the content I share on this page is useful to you.✨
