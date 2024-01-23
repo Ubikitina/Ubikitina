@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 😄 Hi, I'm Maialen (@Ubikitina).
-- 👀 I'm interested in Data Engineering, Data Science and Artificial Intelligence.
-- 🌱 I’m currently learning Python, Cloud technologies (AWS and Azure) and Semantic Web.
-- 💞️ I’m looking to collaborate in life science projects using technology listed above.
+- 👀 I'm interested in Data Engineering and DevOps.
+- 🌱 I’m currently learning Docker and Kubernetes.
+- 💞️ I’m looking to collaborate in life science projects using Python.
 
 I hope the content I share on this page is useful to you.✨
 
