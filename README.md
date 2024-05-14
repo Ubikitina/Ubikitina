@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 😄 Hi, I'm Maialen (@Ubikitina).
 - 👀 I'm interested in Data Engineering and DevOps.
-- 🌱 I’m currently learning Docker and Kubernetes.
 - 💞️ I’m looking to collaborate in life science projects using Python.
 
 I hope the content I share on this page is useful to you.✨
